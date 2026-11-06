@@ -22,17 +22,19 @@ I'm building my GitHub presence around practical ideas and learning in public. M
 
 ### ✨ [Data Lab](https://github.com/SatyendrAAA/spoilertech/tree/main/portfolio/data-lab)
 
-A local-first CSV dashboard for exploring data quality, spotting exact duplicates, searching a preview and exporting cleaned records. It runs in the browser without sending file contents to a server. [Explore the code and setup ->](https://github.com/SatyendrAAA/spoilertech/tree/main/portfolio/data-lab)
+A local-first CSV dashboard for exploring data quality, spotting exact duplicates, searching a preview and exporting cleaned records. It runs in the browser without sending file contents to a server.
+
+[Explore the code and setup →](https://github.com/SatyendrAAA/spoilertech/tree/main/portfolio/data-lab) · [Try the live demo →](https://satyendraaa.github.io/spoilertech/portfolio/data-lab/)
 
 ### 🧹 [CSV Cleaner](https://github.com/SatyendrAAA/spoilertech/tree/main/portfolio/csv-cleaner)
 
 A small, dependency-free Python tool that trims CSV data, removes exact duplicates and keeps the original file untouched. Includes a sample dataset and automated tests.
 
-**Good for exploring:** data preparation, repetitive cleanup and command-line workflows. [See the project ->](https://github.com/SatyendrAAA/spoilertech/tree/main/portfolio/csv-cleaner)
+**Good for exploring:** data preparation, repetitive cleanup and command-line workflows. [See the project →](https://github.com/SatyendrAAA/spoilertech/tree/main/portfolio/csv-cleaner)
 
 ### 🤖 [my_agent](https://github.com/SatyendrAAA/my_agent)
 
-An early-stage project described as an AI agent skeleton for browser automation and memory. It is a starting point, not a finished product. [View the repository ->](https://github.com/SatyendrAAA/my_agent)
+An early-stage project described as an AI agent skeleton for browser automation and memory. It is a starting point, not a finished product. [View the repository →](https://github.com/SatyendrAAA/my_agent)
 
 ## Ideas we can discuss
 
@@ -46,7 +48,7 @@ The right approach depends on the requirements. Let's discuss the scope and feas
 
 ## Let's connect
 
-[**Start a project inquiry ->**](https://github.com/SatyendrAAA/spoilertech/issues/new?template=project-inquiry.yml)
+[**Start a project inquiry →**](https://github.com/SatyendrAAA/spoilertech/issues/new?template=project-inquiry.yml)
 
 Share a brief, non-confidential description of the problem, the outcome you want and your preferred timeline. GitHub issues are **public**: never post passwords, private customer data, payment details or confidential files. If the inquiry template isn't available yet, you can [open a regular issue](https://github.com/SatyendrAAA/spoilertech/issues/new) instead.
 
